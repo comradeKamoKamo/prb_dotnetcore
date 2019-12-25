@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "prb_dotnetcore": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\Users\\tamut\\source\\repos\\prb_dotnetcore\\hidden\\a s\\a.xml\" -n"
+    }
+  }
+}
