@@ -21,7 +21,7 @@ namespace prb_dotnetcore
                     "Options:\n" +
                     "xmlfilepath : プロロボ公式エディタで作成したプログラムのxmlファイルのパスを指定します。\n" +
                     "--notransfer -n : コンパイルのみを行い、転送を行いません。\n" +
-                    "--help -h : このヘルプを表示します。より詳細な情報はhttps://hoge.co/を確認してください。"
+                    "--help -h : このヘルプを表示します。より詳細な情報はhttps://github.com/comradeKamoKamo/prb_dotnetcore/を確認してください。"
                     ) ;
                 Environment.Exit(0);
             }
