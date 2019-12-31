@@ -7,7 +7,7 @@ namespace prb_dotnetcore
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("prb_dotnetcore version 0.5 bate\n");
+            Console.WriteLine("prb_dotnetcore version 0.6 bate\n");
             if(args.Length == 0)
             {
                 Console.WriteLine("エラー:引数が指定されていません。--helpを指定するとヘルプを表示できます。");
