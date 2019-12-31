@@ -153,7 +153,7 @@ namespace prb_dotnetcore
 
         public void ConnectPrb()
         {
-            prbDevice = DeviceList.Local.GetHidDeviceOrNull(vendorID: 0x2431);
+            prbDevice = DeviceList.Local.GetHidDeviceOrNull(vendorID: 0x2431, productID:0x0311);
             if(prbDevice is null)
             {
                 Console.WriteLine("エラー:プロロボが見つかりませんでした。");
